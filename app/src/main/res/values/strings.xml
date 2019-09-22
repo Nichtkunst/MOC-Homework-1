@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MOC Homework 1</string>
+    <string name="t_user_name">Klaus Fleischhacker</string>
+    <string name="ed_text">0</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="t_sum_text">0</string>
+    <string name="btn_navigate">Navigate</string>
+    <string name="t_seekbar_text">waitin\' bro</string>
+</resources>
